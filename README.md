@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jemale Akil</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-- 💬 Ask me about **PHP, Laravel, JS, React**
+- 💬 I work with **PHP, Laravel, JS, React**
 
-- 📫 How to reach me **jimcaaleaaqil@gmail.com**
+- 📫 Reach me **jimcaaleaaqil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
