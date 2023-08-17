@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jemale Akil</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
    Resume    
 
