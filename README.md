@@ -6,14 +6,13 @@ Addis Ababa, Ethiopia
 \+251 910 795 873  
 [jimcaaleaaqil@gmail.com](mailto:jimcaaleaaqil@gmail.com)
 
-# **SUMMARY**
+## **SUMMARY**
 
 Backend Developer with 5+ years of experience building scalable web applications using **NodeJs** and **Laravel**. 
 
-# **EXPERIENCE**
+## **EXPERIENCE**
 
-## **Rays Microfinance,  Jigjiga/Addis Ababa** *\- Full Stack developer*
-
+## **Rays Microfinance,  Addis Ababa** *\- Full Stack developer*
 April 2020 \- PRESENT
 
 * Developed and maintained **Financial Mobile Application Backend** built on NodeJs.  
@@ -21,9 +20,9 @@ April 2020 \- PRESENT
 * Maintained  and worked on the company’s **User Portal** built with Laravel.  
 * **Database reporting** admin for generating complex reports and data aggregation and transformation tasks.
 
-# **PROFESSIONAL PROJECTS** 
+## **PROFESSIONAL PROJECTS** 
 
-#### **Financial Mobile Application Backend \- Rays Microfinance**
+### **_Financial Mobile Application Backend \- Rays Microfinance_**
 
 Developed and maintained a financial mobile application backend supporting Android and iOS platforms.
 
@@ -32,14 +31,14 @@ Developed and maintained a financial mobile application backend supporting Andro
 
 #### 
 
-#### **Customer Web Portal \- Rays Microfinance**
+### **_Customer Web Portal \- Rays Microfinance_**
 
 Designed and developed a comprehensive web portal for agents, customers, and merchants.
 
 * Built the backend using **Laravel**, implementing RESTful APIs that interfaced with the company’s middleware for transaction records, user information, and account data.  
 * Developed the interface using Laravel Blade templates and Bootstrap CSS.
 
-#### **Courier Management System \- Hudhud Express**
+### **_Courier Management System \- Hudhud Express_**
 
 Engineered a full-stack courier management system enabling users to track, manage, and deliver shipments.
 
@@ -47,6 +46,6 @@ Engineered a full-stack courier management system enabling users to track, manag
 * Designed an intuitive and mobile-responsive UI with **CoreUI React**.  
 * Integrated **Go** (**Gin** framework) for SMS API services, leveraging **RabbitMQ** for asynchronous message queue handling.
 
-#### **CI/CD Automation Pipeline**
+### **_CI/CD Automation Pipeline_**
 
 Implemented a Jenkins-based CI/CD pipeline integrated with Docker to automate application builds, testing, and deployments, improving release consistency and reducing manual intervention.
