@@ -1,155 +1,52 @@
-<h1 align="center">Hi 👋, I'm Jemale Akil</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# **Jemale Akil Aden**
 
-   Resume    
+## **Backend developer** \- Laravel, Node.js
 
-![](/me.jpg)
+Addis Ababa, Ethiopia  
+\+251 910 795 873  
+[jimcaaleaaqil@gmail.com](mailto:jimcaaleaaqil@gmail.com)
 
-Lorem Dola Ipsum
-----------------
+# **SUMMARY**
 
-Software Engineer
+Backend Developer with 5+ years of experience building scalable web applications using **NodeJs** and **Laravel**. 
 
-### Contact Info
+# **EXPERIENCE**
 
-*   07661892982
-*   loremipsum@gmail.com
-*   www.loremipsum.com
-*   www.facebook.com/lorem
-*   @loremipsum
-*   37 Pramount St, London
+## **Rays Microfinance,  Jigjiga/Addis Ababa** *\- Full Stack developer*
 
-### Skills
+April 2020 \- PRESENT
 
-*   Javascript
-    
-*   Photoshop
-    
-*   Java
-    
-*   C++
-    
-*   Ruby
-    
-*   Node js
-    
-*   html/css
-    
-*   illustrator
-    
-*   Wordpress
-    
+* Developed and maintained **Financial Mobile Application Backend** built on NodeJs.  
+* Developed and worked on a **USSD** application built with OOP PHP.  
+* Maintained  and worked on the company’s **User Portal** built with Laravel.  
+* **Database reporting** admin for generating complex reports and data aggregation and transformation tasks.
 
-### References
+# **PROFESSIONAL PROJECTS** 
 
-###### Michael Bowen
+#### **Financial Mobile Application Backend \- Rays Microfinance**
 
-Product Manager
+Developed and maintained a financial mobile application backend supporting Android and iOS platforms.
 
-*   07661892982
-*   loremipsum@gmail.com
+* Implemented RESTful APIs using **Node.js** to facilitate communication with the internal financial middleware.  
+* Integrated **Redis** for efficient session management and caching.
 
-###### Joseph Kumar
+#### 
 
-Senior Developer
+#### **Customer Web Portal \- Rays Microfinance**
 
-*   07661892982
-*   loremipsum@gmail.com
+Designed and developed a comprehensive web portal for agents, customers, and merchants.
 
-###### Rick Ross
+* Built the backend using **Laravel**, implementing RESTful APIs that interfaced with the company’s middleware for transaction records, user information, and account data.  
+* Developed the interface using Laravel Blade templates and Bootstrap CSS.
 
-Product Manager
+#### **Courier Management System \- Hudhud Express**
 
-*   07661892982
-*   loremipsum@gmail.com
+Engineered a full-stack courier management system enabling users to track, manage, and deliver shipments.
 
-About Me
---------
+* Built RESTful APIs and handled database operations using **Laravel** and **MySQL**.  
+* Designed an intuitive and mobile-responsive UI with **CoreUI React**.  
+* Integrated **Go** (**Gin** framework) for SMS API services, leveraging **RabbitMQ** for asynchronous message queue handling.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam molestias facilis ullam dolorum, reprehenderit dolorem accusantium sit quo dolore nostrum assumenda obcaecati animi commodi nobis labore exercitationem corporis esse eveniet optio laudantium molestiae maiores pariatur nisi cumque. Distinctio et, totam, dicta autem nostrum doloribus ipsam vel rerum, molestiae soluta laboriosam.  
-  
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto iusto porro suscipit. Nihil blanditiis cum voluptates odio recusandae deleniti, nulla repudiandae aliquam adipisci iusto reiciendis sequi labore quos ratione accusamus consectetur, libero ex assumenda pariatur commodi animi nobis, dolore id.
+#### **CI/CD Automation Pipeline**
 
-Experience
-----------
-
-##### Microsoft
-
-2017 - 2019
-
-##### Junior Developer
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-##### Google Inc
-
-2019 - 2020
-
-##### Lead Web developer
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-##### Google Inc
-
-2019 - 2020
-
-##### Lead Web developer
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-##### Apple
-
-2020 - Present
-
-##### Senior Developer
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-education
----------
-
-##### Cheney School
-
-2015 - 2016
-
-##### Gcse's
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-##### Cheney School
-
-2016 - 2018
-
-##### A - Levels
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-##### University of Sussex
-
-2018 - Present
-
-##### Computer Science
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-Awards
-------
-
-##### Microsoft
-
-June 2016
-
-##### Excellent Work
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-##### Alphabet Inc
-
-June 2016
-
-##### The Star Employee
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae voluptatem deleniti, laboriosam odio nobis quae fugit facilis quo.
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Implemented a Jenkins-based CI/CD pipeline integrated with Docker to automate application builds, testing, and deployments, improving release consistency and reducing manual intervention.
