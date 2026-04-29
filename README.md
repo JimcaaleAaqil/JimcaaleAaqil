@@ -6,7 +6,7 @@
 - PHP (Object-Oriented Programming)
 
 ### Databases & Caching
-- MySQL (relational database design, queries, optimization)
+- MySQL, MSSQL and PostgreSQL (relational database design, queries, optimization)
 - Redis (caching, session management)
 
 ### Frontend
